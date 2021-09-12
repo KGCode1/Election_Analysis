@@ -1,0 +1,6 @@
+Time of counting : 2021-09-11 23:09:37.875673
+List of counties:
+--------------------
+Arapahoe
+Denver
+Jefferson
